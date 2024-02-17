@@ -2,7 +2,7 @@
 
 By Sahithi Jagarlamudi
 
-Video overview: <https://www.youtube.com/watch?v=Hnhd0ZSYdX8>
+
 
 ## Scope
 
