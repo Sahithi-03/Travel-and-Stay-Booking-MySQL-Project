@@ -1,6 +1,8 @@
 # Design Document
 
-By Sahithi Jagarlamudi
+By Sahithi Jagarlamudi 
+
+Video overview: https://www.youtube.com/watch?v=Hnhd0ZSYdX8
 
 
 
