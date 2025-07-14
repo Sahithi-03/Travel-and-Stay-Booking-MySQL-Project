@@ -4,6 +4,7 @@ By Sahithi Jagarlamudi
 
 Video overview: https://www.youtube.com/watch?v=Hnhd0ZSYdX8
 
+This Project was submitted and got accepted for the Final Project for CS50: Introduction to Databases with SQL course.
 
 
 ## Scope
